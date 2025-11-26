@@ -47,3 +47,16 @@ elif marks >=81 and marks <=100:
     print("Your grade is A")
 else:
     print("Your are failed")
+
+
+#dynamically from the user
+marks=int(input("Enter the marks:"))
+
+if marks >=30 and marks <=50 :
+    print("Your grade is C ")
+elif marks >=51 and marks <=80 :
+    print("Your grade is B")
+elif marks >=81 and marks <=100:
+    print("Your grade is A")
+else:
+    print("Your are failed")
