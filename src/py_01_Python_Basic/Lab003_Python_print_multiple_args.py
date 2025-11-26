@@ -29,3 +29,5 @@ Prints the values to a stream, or to sys.stdout by default.
 #Indentation error
 #    print("Gauri",123,3.14,True,"ABC")
 #Right click on code file -> select reformat code
+
+print("Gauri",123,3.14,True,"ABC")
