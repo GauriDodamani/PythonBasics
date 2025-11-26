@@ -52,7 +52,7 @@ else:
 #dynamically from the user
 marks=int(input("Enter the marks:"))
 
-if marks >=30 and marks <=50 :
+if marks >=20 and marks <=50 :
     print("Your grade is C ")
 elif marks >=51 and marks <=80 :
     print("Your grade is B")
