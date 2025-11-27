@@ -22,3 +22,7 @@ print("Value for a,b,c variable",a,b,c)
 print(end='\n')
 a=b=c="Gauri"
 print("Value for a,b,c is : ",a,b,c)
+
+#can have long variable name
+what_is_your_name="gauri"
+print(what_is_your_name)
