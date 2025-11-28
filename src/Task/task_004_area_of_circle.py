@@ -13,11 +13,15 @@
 #pi=3.14
 #r-> float->input
 #can use pow function for radius
+
+#Logic 1:
+
 pi=3.14159265359
 radius=float(input("Enter the radius : "))
 print(radius)
 area= pi*(radius**2)
 #area= pi*(pow(radius,2))   # power function used pow(r,2)
+
 #print area using string format {}
 
 #print("The area of the circle is",area)
@@ -26,7 +30,15 @@ print(f"The area of the circle is : {area:.2f}")   # string format f{}
 
 
 
+#Logic 2: By math function
 
+import math
+
+
+radius=float(input("Enter the radius : "))
+print(radius)
+area= math.pi * (pow(radius,2))
+print("The area of the circle is : {:.2f}".format(area))   # another string format
 
 
 
