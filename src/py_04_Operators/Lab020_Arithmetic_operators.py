@@ -2,8 +2,19 @@
 
 #Arithmetic operator : +,-,*,/,//,%,**
 
-#Take input from user
+a=20
+b=10
+print("Addition : ",a+b)
+print("Subtraction : ",a-b)
+print("Multiplication : ",a*b)
+print("Division : ",a/b)
+print("Quotient : ",a//b)
+print("Reminder : ",a%b)
+print("Power : ",a**b)   #Exponentiation
 
+
+#Take input from user
+'''
 n1=int(input("Enter 1st no : "))
 n2=int(input("Enter 2nd no : "))
 
@@ -28,3 +39,5 @@ print(reminder)
 
 power=n1**n2
 print(power)
+
+'''
