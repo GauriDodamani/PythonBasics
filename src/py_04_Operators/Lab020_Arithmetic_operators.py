@@ -25,3 +25,6 @@ print(quotient)
 reminder=n1%n2
 print(reminder)
 
+
+power=n1**n2
+print(power)
