@@ -7,7 +7,7 @@ b=10
 print("Addition : ",a+b)
 print("Subtraction : ",a-b)
 print("Multiplication : ",a*b)
-print("Division : ",a/b)
+print("Division : ",a/b)       #division always give result in float
 print("Quotient : ",a//b)
 print("Reminder : ",a%b)
 print("Power : ",a**b)   #Exponentiation
