@@ -8,3 +8,6 @@ multiple
 line
 comment(""")
 '''
+
+
+# To select multiple line in one go with # comment type-> Ctrl+/
