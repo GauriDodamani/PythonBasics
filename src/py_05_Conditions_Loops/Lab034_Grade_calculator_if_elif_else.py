@@ -22,13 +22,13 @@ print(score)
 if score>100 or score<0:
     print("Invalid score")
 else:
-    if score>90 and score<=100:
+    if score>=90 and score<=100:
         print("Pass, Your grade is : A")
-    elif score>80 and score<=89:
+    elif score>=80 and score<=89:
         print("Pass, Your grade is : B")
-    elif score>70 and score<=79:
+    elif score>=70 and score<=79:
         print("Pass, Your grade is : C")
-    elif score>60 and score<=69:
+    elif score>=60 and score<=69:
         print("Pass, Your grade is : D")
     else:
         print("Failed, Your grade is : F ")
