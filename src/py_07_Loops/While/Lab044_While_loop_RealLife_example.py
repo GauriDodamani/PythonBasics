@@ -5,9 +5,4 @@ while count<5:
 
 
 
-print("\n")
-num=int(input("Enter a number : "))
-factorial=1
-while factorial <= num:
-    factorial=factorial * num
-    print("The factorial is : ", factorial)
+
