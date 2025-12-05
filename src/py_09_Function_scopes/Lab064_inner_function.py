@@ -3,7 +3,7 @@ def outer_function():
 
     def inner_function1():
         var2=9
-        print("This is outer function value : ",var1)
+        print("This is outer function value : ",var1)   #function in function can take the value
         print("This is inner function value : ",var2)
 
     def inner_function2():
