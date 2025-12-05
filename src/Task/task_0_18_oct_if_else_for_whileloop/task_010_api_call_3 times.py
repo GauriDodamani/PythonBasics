@@ -22,6 +22,7 @@ while counter<=3:
 
     if response_code ==200:
         print("✅ Test Passed ")
+        break
     else:
         counter += 1
 
