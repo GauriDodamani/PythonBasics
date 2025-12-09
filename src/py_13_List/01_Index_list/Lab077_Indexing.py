@@ -1,7 +1,5 @@
 # index() -> starts with 0
 
-
-
 number=[10,20,30,40,50,100]
 
 #index()
