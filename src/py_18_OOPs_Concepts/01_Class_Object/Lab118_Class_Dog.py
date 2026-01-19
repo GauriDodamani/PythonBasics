@@ -1,9 +1,9 @@
 class Dog:
-    name="Buddy"
-    age=3
-    breed="beagel"
-    color="brown"
-    isVaccinated=True
+    name=None
+    age=None
+    breed=None
+    color=None
+    isVaccinated=None
 
     def bark(self):
         print("The dogs barks")
